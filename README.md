@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrian891
 - 👀 I’m interested in Back End Developing
-- 🌱 I’m currently learning Java,Php,python,
+- 🌱 I’m currently learning Java,Php,python,Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +6285724086702
 
